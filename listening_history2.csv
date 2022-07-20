@@ -1,0 +1,36 @@
+User,Song Title  Skipped,Track,Rating
+User_001,Like a Rolling Stone,TRUE,6
+User_001,Imagine,FALSE,2
+User_001,What's Going On,FALSE,9
+User_002,Respect,FALSE,6
+User_003,Good Vibrations,TRUE,0
+User_003,Johnny B. Goode,FALSE,10
+User_003,Hey Jude,TRUE,6
+User_004,Smells Like Teen Spirit,FALSE,8
+User_004,What'd I Say,TRUE,10
+User_004,Like a Rolling Stone,TRUE,10
+User_005,What's Going On,TRUE,10
+User_006,What's Going On,FALSE,4
+User_006,Respect,TRUE,10
+User_006,Good Vibrations,TRUE,10
+User_006,Johnny B. Goode,FALSE,5
+User_007,Hey Jude,TRUE,8
+User_008,Smells Like Teen Spirit,FALSE,7
+User_008,What'd I Say,TRUE,2
+User_008,Imagine,FALSE,2
+User_008,What's Going On,FALSE,5
+User_008,Respect,FALSE,1
+User_008,Good Vibrations,FALSE,3
+User_008,Johnny B. Goode,FALSE,7
+User_008,Hey Jude,FALSE,5
+User_008,Smells Like Teen Spirit,TRUE,10
+User_008,What'd I Say,TRUE,0
+User_009,Good Vibrations,TRUE,10
+User_010,Hey Jude,TRUE,8
+User_011,Imagine,TRUE,6
+User_012,Johnny B. Goode,TRUE,9
+User_013,Like a Rolling Stone,TRUE,10
+User_014,Respect,TRUE,10
+User_014,Smells Like Teen Spirit,FALSE,1
+User_014,What'd I Say,FALSE,8
+User_014,What's Going On,FALSE,4
